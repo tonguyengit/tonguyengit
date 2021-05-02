@@ -1,6 +1,6 @@
 - 👋 I’m @tonguyengit
-- 👀 interested in Blockchain Tech
-- 🌱 currently learning Smart Contract & DApps
+- 👀 interested in Blockchain Technology
+- 🌱 working on Smart Contract & DApps projects
 
 <!---
 tonguyengit/tonguyengit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
