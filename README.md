@@ -1,4 +1,4 @@
-- 👋 I’m @tonguyengit
+- 👋 I’m Tony Sakamoto
 - 👀 interested in Blockchain Technology
 - 🌱 working on Smart Contract & DApps projects
 
